@@ -1,0 +1,7 @@
+{
+  "monitor_directory": "D:\\Games\\Battle.net\\Overwatch\\_retail_",
+  "target_exe": "Overwatch.exe",
+  "kill_exe": "OWNeacClient.exe",
+  "check_interval_ms": 500,
+  "auto_start": true
+}
